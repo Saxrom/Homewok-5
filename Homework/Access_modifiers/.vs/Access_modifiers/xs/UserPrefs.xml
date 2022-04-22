@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E64F4A35-655B-4702-8149-390B116D0BE3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Access__modifiers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="User.cs">
+    <Files>
+      <File FileName="User.cs" Line="63" Column="38" />
+      <File FileName="Admin.cs" Line="18" Column="31" />
+      <File FileName="Program.cs" Line="51" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Access_modifiers" expanded="True">
+            <Node name="Access_modifiers" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

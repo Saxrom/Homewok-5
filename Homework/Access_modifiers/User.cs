@@ -6,63 +6,87 @@ namespace Access_modifiers
         private string _Username;
         private string _Password;
 
+
+        public User(string username, string password)
+        {
+            _Username = username;
+            _Password = password;
+        }
+
         public string username
         {
             get
             {
-        
-                return username;
+                return _Username;
             }
             set
             {
-                if (username.Length > 6)
+                if (value.Length > 6)
                 {
-                    Console.WriteLine(username);
+                    _Username = value;
                 }
 
                 else
                 {
-                    Console.WriteLine("Zehmet olmasasa adinizi yeniden daxil edin");
+                    Console.WriteLine("Istifadeci adi minimim 7eded daxil etmelidir");
                 }
-
             }
         }
 
-        public object MyProperty
+
+        public string password
         {
             get
             {
                 return _Password;
-
             }
             set
             {
-                if (_Password.Length>1)
+
+                if (CheckPassword(value))
                 {
-                    for (int i = 0; i < _Password.Length; i++)
-                    {
-                        if (char.IsUpper(_Password[i]))
-                        {
-                            username = _Username;
-                        }
-                    }
+                    _Password = value;
                 }
 
                 else
                 {
-                    Console.WriteLine("Zehmet olmasa passwordu yeniden daxil edin");
+                    Console.WriteLine("Zehmet olmasa parol");
                 }
             }
         }
 
 
-
-        
-
-        public User(string username,string password)
+        public  bool  CheckPassword(string password)
         {
-            _Username = username;
-            _Password = password;
+            if (password.Length>8)
+            {
+                bool isUpper = false;
+                bool isLower = false;
+                bool isDigit = false;
+
+                foreach (var letter in password)
+                {
+                    if (char.IsDigit(letter))
+                    {
+                        isDigit = true;
+                    }
+
+                    else if (char.IsLower(letter))
+                    {
+                        isLower = true;
+                    }
+
+                    else if (char.IsUpper(letter))
+                    {
+                        isUpper = true;
+                    }
+
+                    bool result = isUpper && isLower && isDigit;
+
+                    return result;   
+                }
+            }
+                 return false;
         }
     }
 }

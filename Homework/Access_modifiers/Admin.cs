@@ -1,16 +1,21 @@
 ﻿using System;
 namespace Access_modifiers
 {
-    public class Admin
+    public class Admin:User
     {
-        public bool isSuperAdmin;
         public string Section;
+        public bool isSupperAdmin;
 
-        public Admin(bool isSuperAdmin,string section)
+
+        public Admin(string username,string password,string section,bool issupper):base(username,password)
         {
-            
+            Section = section;
+            isSupperAdmin = issupper;
+        }
 
-
+        public void getInfo()
+        {
+            Console.WriteLine( $"username: {username}, Password: {password}, Section: {Section}, {(isSupperAdmin ? "This admin is super admin" : "This admin is not super admin")}");
         }
     }
 }

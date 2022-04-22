@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shahrom/Projects/Access_modifiers/Access_modifiers/Access_modifiers.csproj",
+      "projectUniqueName": "/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/Access_modifiers.csproj",
       "projectName": "Access_modifiers",
-      "projectPath": "/Users/shahrom/Projects/Access_modifiers/Access_modifiers/Access_modifiers.csproj",
+      "projectPath": "/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/Access_modifiers.csproj",
       "packagesPath": "/Users/shahrom/.nuget/packages/",
-      "outputPath": "/Users/shahrom/Projects/Access_modifiers/Access_modifiers/obj/",
+      "outputPath": "/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shahrom/.config/NuGet/NuGet.Config"

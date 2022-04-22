@@ -11,3 +11,16 @@
 /Users/shahrom/Projects/Access_modifiers/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.dll
 /Users/shahrom/Projects/Access_modifiers/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.pdb
 /Users/shahrom/Projects/Access_modifiers/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.genruntimeconfig.cache
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/bin/Debug/netcoreapp3.1/Access_modifiers.deps.json
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/bin/Debug/netcoreapp3.1/Access_modifiers.runtimeconfig.json
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/bin/Debug/netcoreapp3.1/Access_modifiers.runtimeconfig.dev.json
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/bin/Debug/netcoreapp3.1/Access_modifiers.dll
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/bin/Debug/netcoreapp3.1/Access_modifiers.pdb
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.AssemblyInfo.cs
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.dll
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.pdb
+/Users/shahrom/Desktop/homework-5/Homework/Access_modifiers/obj/Debug/netcoreapp3.1/Access_modifiers.genruntimeconfig.cache
